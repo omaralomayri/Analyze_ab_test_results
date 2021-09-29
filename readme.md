@@ -18,6 +18,7 @@ I found that no sufficient evidence that suggests the new treatment page has mor
 
  
 𝐻0:𝑃𝑛𝑒𝑤−𝑃𝑜𝑙𝑑≤0
+
 𝐻1:𝑃𝑛𝑒𝑤−𝑃𝑜𝑙𝑑>0
 
 
